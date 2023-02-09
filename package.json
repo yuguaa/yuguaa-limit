@@ -7,7 +7,8 @@
     "dev": "pnpm --filter yuguaa-limit dev",
     "build": "pnpm --filter yuguaa-limit build",
     "playground": "pnpm --filter vite-vue dev",
-    "release": "bumpp package.json packages/core/package.json --commit --push --tag && pnpm --filter yuguaa-limit publish --access public"
+    "release": "bumpp package.json packages/core/package.json --commit --push --tag && pnpm --filter yuguaa-limit publish --access public",
+    "publish": "pnpm --filter yuguaa-limit publish --access public"
   },
   "keywords": [],
   "author": "",
