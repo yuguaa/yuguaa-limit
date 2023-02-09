@@ -1,2 +1,2 @@
-# yuguaa-limit
-仿p-limit手写的并发控制
+# yuguaa-lib-template
+lib开发模板
